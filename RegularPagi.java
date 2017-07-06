@@ -12,12 +12,12 @@ this.Jadwal = Jadwal;
 @Override
  
 		  public String getKelas (){
-            return Kelas="TIRP14B";
+            return Kelas="TIFRP14A";
         }
 		
 		@Override
 		 public String getJurusan (){
-            return Jurusan="Industri";
+            return Jurusan="Informatika";
         }
 
     @Override
